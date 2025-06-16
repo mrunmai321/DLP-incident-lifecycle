@@ -1,0 +1,21 @@
+# DLP Incident Lifecycle Simulation
+
+## Overview
+This project demonstrates how a cybersecurity analyst handles Data Loss Prevention (DLP) incidents — from alert triage to documentation. It uses simulated data and workflows based on real-life scenarios with Microsoft Defender and McAfee DLP.
+
+## Tools
+- Microsoft Defender DLP
+- McAfee DLP
+- ServiceNow
+- Excel/Word for reports
+
+## Folders
+- `simulation_data/`: Dummy test files that could trigger DLP alerts.
+- `triage_workflow/`: Flowcharts and SOP-style steps to handle incidents.
+- `reports/`: Sample monthly DLP report and incident report template.
+- `rule_tuning/`: Documents showing how to reduce false positives.
+
+## Skills Demonstrated
+- Incident triage & documentation
+- DLP rule tuning
+- Reporting & SLA tracking
